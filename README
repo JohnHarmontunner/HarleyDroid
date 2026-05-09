@@ -1,10 +1,10 @@
-HarleyDroid: Harley Davidson J1850 Data Analyser for Android.
+HarleyServiceMaster: Harley Davidson J1850 Data Analyser mobile platforms
 
 Introduction:
 -------------
 
-This Android application captures, decodes and analysed the J1850
-stream coming from the data bus of a Harley Davidson bike.
+This application captures, decodes and analysed the J1850
+stream coming from the data bus of a Harley Davidson motorcycle.
 
 Some of the decoded information (RPM, speed, odometer etc) is
 shown on the screen and can be saved on the external storage (SDcard)
